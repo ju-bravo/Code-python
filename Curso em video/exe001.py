@@ -1,2 +1,3 @@
+# exe001.py --> Crie um programa que escreva "olá, mundo!" na tela;
+
 print("olá, mundo!")
-print("Este é meu primeiro programa em python \nBem legal, né?")

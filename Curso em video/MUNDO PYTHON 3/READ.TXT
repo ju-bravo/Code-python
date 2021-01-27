@@ -1,9 +1,0 @@
-CURSO EM VIDEO - MUNDO PYTHON!!
-
-Todos os exercicios propostos do Mundo Python 1.
-- MUNDO PYTHON 1
-  exe001.py --> Crie um programa que escreva "olá, mundo!" na tela;
-  exe002.py --> Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas;
-  exe003.py -->
-  exe004.py -->
-  exe005.py -->
